@@ -1,0 +1,11 @@
+[project]
+name = "pyside6-nuitka-compiler"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "imageio>=2.37.0",
+    "nuitka>=2.7.10",
+    "pyppeteer>=2.0.0",
+    "pyside6>=6.9.1",
+]
